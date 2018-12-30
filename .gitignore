@@ -1,0 +1,9 @@
+#过滤各种不需要的文件
+
+/.git/*
+/fancy2d/*
+
+/LuaSTGExPlus/.vs/*
+/LuaSTGExPlus/build/*
+/LuaSTGExPlus/luajit/backup/*
+/LuaSTGExPlus/zlib/build/*
